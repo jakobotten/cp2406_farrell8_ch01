@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ee50c51-3919-4936-aacb-de9defe446a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3ee50c51-3919-4936-aacb-de9defe446a3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,19 +31,6 @@
             <state relative-caret-position="144">
               <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixDebugOne4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DebuggingExercises/FixDebugOne4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -116,11 +101,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentsDialog.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CommentsDialog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeInFigures/CommentsDialog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BurmaShave.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeInFigures/BurmaShave.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -161,6 +156,7 @@
         <option value="$PROJECT_DIR$/CodeInFigures/FavoriteSong.java" />
         <option value="$PROJECT_DIR$/CodeInFigures/Comments.java" />
         <option value="$PROJECT_DIR$/CodeInFigures/CommentsDialog.java" />
+        <option value="$PROJECT_DIR$/CodeInFigures/BurmaShave.java" />
       </list>
     </option>
   </component>
@@ -249,7 +245,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommentsDialog">
+  <component name="RunManager" selected="Application.BurmaShave">
+    <configuration name="BurmaShave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="BurmaShave" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="cp2406_farrell8_ch01" />
+      <envs />
+    </configuration>
     <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Comments" />
@@ -295,20 +305,6 @@
     <configuration name="MovieQuoteInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MovieQuoteInfo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cp2406_farrell8_ch01" />
-      <envs />
-    </configuration>
-    <configuration name="TableAndChairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TableAndChairs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,19 +398,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TableAndChairs" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MovieQuoteInfo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FavoriteSong" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Comments" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CommentsDialog" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MovieQuoteInfo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FavoriteSong" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Comments" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CommentsDialog" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BurmaShave" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CommentsDialog" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Comments" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FavoriteSong" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MovieQuoteInfo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TableAndChairs" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BurmaShave" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CommentsDialog" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Comments" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FavoriteSong" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MovieQuoteInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -432,12 +428,12 @@
       <workItem from="1501544362247" duration="718000" />
       <workItem from="1501550234603" duration="34000" />
       <workItem from="1501642850121" duration="1041000" />
-      <workItem from="1501647375461" duration="451000" />
+      <workItem from="1501647375461" duration="828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5255000" />
+    <option name="totallyTimeSpent" value="5632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -485,14 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -846,6 +834,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeInFigures/BurmaShave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding />
         </state>
       </provider>
