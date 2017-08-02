@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ee50c51-3919-4936-aacb-de9defe446a3" name="Default" comment="" />
+    <list default="true" id="3ee50c51-3919-4936-aacb-de9defe446a3" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/BurmaShave.java" afterPath="$PROJECT_DIR$/MyCode/src/BurmaShave.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/Comments.java" afterPath="$PROJECT_DIR$/MyCode/src/Comments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/CommentsDialog.java" afterPath="$PROJECT_DIR$/MyCode/src/CommentsDialog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/FavoriteSong.java" afterPath="$PROJECT_DIR$/MyCode/src/FavoriteSong.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java" afterPath="$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CodeInFigures/TableAndChairs.java" afterPath="$PROJECT_DIR$/MyCode/src/TableAndChairs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,27 +70,27 @@
         </entry>
       </file>
       <file leaf-file-name="TableAndChairs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/TableAndChairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MovieQuoteInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/FavoriteSong.java">
+      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/FavoriteSong.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -92,30 +100,30 @@
         </entry>
       </file>
       <file leaf-file-name="Comments.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/Comments.java">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/Comments.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CommentsDialog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/CommentsDialog.java">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/CommentsDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BurmaShave.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeInFigures/BurmaShave.java">
+      <file leaf-file-name="BurmaShave.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyCode/src/BurmaShave.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            <state relative-caret-position="180">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -207,6 +215,17 @@
               <item name="cp2406_farrell8_ch01" type="462c0819:PsiDirectoryNode" />
               <item name="DebuggingExercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cp2406_farrell8_ch01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cp2406_farrell8_ch01" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cp2406_farrell8_ch01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cp2406_farrell8_ch01" type="462c0819:PsiDirectoryNode" />
+              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -222,6 +241,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyCode/src" />
+      <recent name="$PROJECT_DIR$/MyCode" />
       <recent name="$PROJECT_DIR$/CodeInFigures" />
       <recent name="$PROJECT_DIR$/akshdf" />
     </key>
@@ -271,7 +292,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cp2406_farrell8_ch01" />
+      <module name="MyCode" />
       <envs />
     </configuration>
     <configuration name="CommentsDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -285,7 +306,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cp2406_farrell8_ch01" />
+      <module name="MyCode" />
       <envs />
     </configuration>
     <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -299,7 +320,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cp2406_farrell8_ch01" />
+      <module name="MyCode" />
       <envs />
     </configuration>
     <configuration name="MovieQuoteInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -313,7 +334,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cp2406_farrell8_ch01" />
+      <module name="MyCode" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -428,16 +449,15 @@
       <workItem from="1501544362247" duration="718000" />
       <workItem from="1501550234603" duration="34000" />
       <workItem from="1501642850121" duration="1041000" />
-      <workItem from="1501647375461" duration="828000" />
+      <workItem from="1501647375461" duration="1666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5632000" />
+    <option name="totallyTimeSpent" value="6470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -452,7 +472,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35357141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35357141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -481,7 +501,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -489,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/FavoriteSong.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/FavoriteSong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -497,7 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/Comments.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/Comments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
@@ -565,7 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -573,7 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -641,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -649,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -717,7 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -798,23 +818,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/TableAndChairs.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/BurmaShave.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/MovieQuoteInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/FavoriteSong.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/Comments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
@@ -822,26 +834,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/Comments.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/CommentsDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/CommentsDialog.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/TableAndChairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeInFigures/BurmaShave.java">
+    <entry file="file://$PROJECT_DIR$/MyCode/src/MovieQuoteInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyCode/src/FavoriteSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
